@@ -41,3 +41,4 @@ export class ProductDetailsComponent implements OnInit {
   }
 // #docregion inject-cart-service
 }
+// #enddocregion inject-cart-service
